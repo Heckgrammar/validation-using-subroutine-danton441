@@ -117,3 +117,13 @@
 
             }
             return false;
+
+
+
+
+
+
+
+
+
+            Didn't work due to syntax errors in the email, password and username. Don't really know how to fix this.
